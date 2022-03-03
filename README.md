@@ -13,9 +13,11 @@ API module content.
 
 #### Links:
 ##### Graphql:
-[Best practices](https://www.apollographql.com/docs/react/data/operation-best-practices/)
-[GraphQL specs](https://36-concepts-graphql.netlify.app/specs)
-[GraphQL complexity](https://Internal.wiki.link)
+* [Best practices](https://www.apollographql.com/docs/react/data/operation-best-practices/)
+
+* [GraphQL specs](https://36-concepts-graphql.netlify.app/specs)
+
+* [GraphQL complexity](https://Internal.wiki.link)
 
 ### Contentful as code
 
