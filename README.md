@@ -1,4 +1,4 @@
-# ps_developer_track
+# PS Developer Track
 Skill framework developer track repo
 
 Some description developer track
@@ -12,6 +12,13 @@ Some descriptions of sections or modules
 API module content.
 
 #### Links:
+
+Some links to tools:
+
+* [tool1](https://www.apollographql.com/docs/react/data/operation-best-practices/)
+
+* [tool 2](https://36-concepts-graphql.netlify.app/specs)
+
 ##### Graphql:
 * [Best practices](https://www.apollographql.com/docs/react/data/operation-best-practices/)
 
@@ -19,11 +26,11 @@ API module content.
 
 * [GraphQL complexity](https://Internal.wiki.link)
 
-### Contentful as code
+## Contentful as code
 
 Module content
 
-### Extending Contentful
+## Extending Contentful (to be removed ?)
 
 Module content
 
