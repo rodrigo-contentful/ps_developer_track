@@ -15,6 +15,8 @@ API module content.
 
 Some links to tools:
 
+* [API Schemas](https://github.com/rodrigo-contentful/apis-schemas)
+
 * [tool1](https://www.apollographql.com/docs/react/data/operation-best-practices/)
 
 * [tool 2](https://36-concepts-graphql.netlify.app/specs)
