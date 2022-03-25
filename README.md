@@ -41,9 +41,9 @@ By using Contentful [command line interface](https://github.com/contentful/conte
 Contentful CLI provides the functionality scripting content and contentypes migrations with simple reusables scripts.
 #### Examples:
 
-[Example migration scripts](https://github.com/rodrigo-contentful/ps_developer_track/tree/main/Contentful%20As%20Code/migration%20scripts)
+* [Example migration scripts](https://github.com/rodrigo-contentful/ps_developer_track/tree/main/Contentful%20As%20Code/migration%20scripts)
 
-[Contentful examples list](https://github.com/contentful/contentful-migration/tree/master/examples)
+* [Contentful examples list](https://github.com/contentful/contentful-migration/tree/master/examples)
 
 ## Extending Contentful (to be removed ?)
 
