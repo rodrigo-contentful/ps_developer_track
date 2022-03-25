@@ -32,7 +32,7 @@ Some links to tools:
 
 Module content
 
-* [Example migration scripts](Contentful As Code/migration scripts)
+* [Example migration scripts](/Contentful As Code/migration scripts)
 
 ## Extending Contentful (to be removed ?)
 
