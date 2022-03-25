@@ -7,19 +7,44 @@ Some description developer track
 
 Some descriptions of sections or modules
 
+<details>
+
+<summary>Table of contents</summary>
+<!-- TOC -->
+
+- [PS Developer Track](#ps-developer-track)
+  - [Modules](#modules)
+    - [Api's](#apis)
+      - [Resources](#resources)
+      - [Refernces and interesting reading:](#refernces-and-interesting-reading)
+        - [Graphql:](#graphql)
+    - [Contentful as code](#contentful-as-code)
+      - [Content Migrations via CLI](#content-migrations-via-cli)
+        - [Examples:](#examples)
+  - [Extending Contentful (to be removed ?)](#extending-contentful-to-be-removed-)
+    - [Contentful SDK's](#contentful-sdks)
+  - [Contributing](#contributing)
+  - [License](#license)
+  
+<!-- /TOC -->
+</details>
+
 ### Api's
 
-API module content.
+Our API reference documentation on REST and GraphQL APIs allow you to build your app with Contentful. API references cover Content Management API, Content Delivery API, Content Preview API and Images API to retrieve and apply transformations to content and images, GraphQL Content API, User Management API and SCIM API.
 
-#### Links:
+![header](/APIs/images/screenshot.png)
+
+#### Resources
+
+* [API Schemas](https://github.com/rodrigo-contentful/apis-schemas)
+#### Refernces and interesting reading:
 
 Some links to tools:
 
-* [API Schemas](https://github.com/rodrigo-contentful/apis-schemas)
+* [Apollo Graphl best practices](https://www.apollographql.com/docs/react/data/operation-best-practices/)
 
-* [tool1](https://www.apollographql.com/docs/react/data/operation-best-practices/)
-
-* [tool 2](https://36-concepts-graphql.netlify.app/specs)
+* [GraphQL specs](https://36-concepts-graphql.netlify.app/specs)
 
 ##### Graphql:
 * [Best practices](https://www.apollographql.com/docs/react/data/operation-best-practices/)
@@ -28,18 +53,18 @@ Some links to tools:
 
 * [GraphQL complexity](https://Internal.wiki.link)
 
-## Contentful as code
+### Contentful as code
 
 By using Contentful [command line interface](https://github.com/contentful/contentful-cli) tool. Use Contentful features straight from your CLI.
 
 [Contentful](https://www.contentful.com) provides a content infrastructure for digital teams to power content in websites, apps, and devices. Unlike a CMS, Contentful was built to integrate with the modern software stack. It offers a central hub for structured content, powerful management and delivery APIs, and a customizable web app that enable developers and content creators to ship digital products faster.
 
-### Content Migrations via CLI
+#### Content Migrations via CLI
   
 ![header](https://github.com/contentful/contentful-migration/blob/master/.github/header.png)
 
 Contentful CLI provides the functionality scripting content and contentypes migrations with simple reusables scripts.
-#### Examples:
+##### Examples:
 
 * [Example migration scripts](https://github.com/rodrigo-contentful/ps_developer_track/tree/main/Contentful%20As%20Code/migration%20scripts)
 
