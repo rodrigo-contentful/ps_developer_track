@@ -47,11 +47,14 @@ Some links to tools:
 * [GraphQL specs](https://36-concepts-graphql.netlify.app/specs)
 
 ##### Graphql:
+
+* [Contentful GraphQL API cheat sheet](https://www.contentful.com/resources/graphql-api-cheat-sheet/)
+
 * [Best practices](https://www.apollographql.com/docs/react/data/operation-best-practices/)
 
 * [GraphQL specs](https://36-concepts-graphql.netlify.app/specs)
 
-* [GraphQL complexity](https://Internal.wiki.link)
+* [GraphQL complexity](https://www.contentful.com/developers/docs/references/graphql/#/introduction/query-complexity-limits)
 
 ### Contentful as code
 
